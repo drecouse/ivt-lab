@@ -1,6 +1,6 @@
 # IVT Spaceship
 
-Changed Readme a bit again for branch-A....
+Changed Readme a bit again for branch-A and branch-B
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
